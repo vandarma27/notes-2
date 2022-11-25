@@ -10,6 +10,4 @@ const init = async () => {
     console.log(`server berjalan pada ${server.info.uri}`)
 }
 
-
-
 init()
