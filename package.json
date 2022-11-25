@@ -19,5 +19,8 @@
   "homepage": "https://github.com/vandarma27/notes-2#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.0.0"
   }
 }
